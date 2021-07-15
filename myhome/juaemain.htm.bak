@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="leejuae">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>MY HOME PAGE</title>
+  <style type = "text/css">
+  @import"MHP.CSS";
+  </style>
+ </head>
+ <body>
+  <div class = "top">
+  <a href ="juaemain.htm">
+  <img class="img" src = "https://postfiles.pstatic.net/MjAyMTA0MTRfMjIz/MDAxNjE4MzcyMTY0MjUx.c93nPkJQmmJWHnQ5SQjVxMeAJF2fIWvBxDbJHV9LcoYg.Uemt2a-tRieI_DIZ8XDCmkLk0eGkBF-b40ANccPT-bgg.JPEG.bess0706/KakaoTalk_20210414_124419478.jpg?type=w966" alt = "my friends dog">
+  <h1>my home page</h1></a>
+  </div>
+  <hr>
+  <div class = "left">
+  <ul><h2><i>menu</i></h2>
+  <li><a href= "juaemain.htm"><h3>main</h3></a></li>
+  <li><a href = "juaelife.htm"><h3>life</h3></a></li>
+  <li><a href = "juaefavorite.htm"><h3>favorite</h3></a></li>
+  <li><a href = "juaedream.htm"><h3>dream</h3></a></li>
+  </ul>
+  </div>
+  <div class = "content">
+  <img class = "img2" src= "https://postfiles.pstatic.net/MjAyMTA0MTRfMTE3/MDAxNjE4MzcyMTY0Mjcz.0UENPT2Blxx5rsVES_4WDs5I3P8KZ02o9JdIxARsuq4g.-TeWbFJhgk2ScZvYSGxHHslrtyF4-AhjX1QSzT6sKLUg.JPEG.bess0706/KakaoTalk_20210414_124747342.jpg?type=w966" alt = "night cherryblossom">
+  <h2 class = "content1">Your beginning was weak, but your future will be very grand.</h2>
+  <p class = "content2"><i>Job 8:7</i></p>
+  <p class = "content3">My favorite sentence.<br>
+  I'm the one who will become a marvelous man. ( •̀ᴗ•́ )و ̑̑</p>
+  </div>
+  <hr>
+  <div class = "bottom">
+  <h5>2021年4月14日。<br>
+  Made by leejuae</h5>
+  </div>
+ </body>
+</html>
